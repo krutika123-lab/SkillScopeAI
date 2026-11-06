@@ -1,0 +1,71 @@
+job_role,skill,skill_category
+Data Analyst,SQL,Technical
+Data Analyst,Excel,Technical
+Data Analyst,Python,Technical
+Data Analyst,Power BI,Technical
+Data Analyst,Tableau,Technical
+Data Analyst,Statistics,Technical
+Data Analyst,Data Visualization,Technical
+Business Analyst,SQL,Technical
+Business Analyst,Excel,Technical
+Business Analyst,Power BI,Technical
+Business Analyst,Requirements Gathering,Professional
+Business Analyst,Stakeholder Management,Professional
+Business Analyst,JIRA,Technical
+Business Analyst,Documentation,Technical
+Python Developer,Python,Technical
+Python Developer,Django,Technical
+Python Developer,Flask,Technical
+Python Developer,REST API,Technical
+Python Developer,Git,Technical
+Python Developer,PostgreSQL,Technical
+Python Developer,Docker,Technical
+Cloud Engineer,AWS,Technical
+Cloud Engineer,Linux,Technical
+Cloud Engineer,Docker,Technical
+Cloud Engineer,Kubernetes,Technical
+Cloud Engineer,Terraform,Technical
+Cloud Engineer,Python,Technical
+Cloud Engineer,CI/CD,Technical
+Data Engineer,Python,Technical
+Data Engineer,SQL,Technical
+Data Engineer,ETL,Technical
+Data Engineer,Apache Spark,Technical
+Data Engineer,AWS,Technical
+Data Engineer,Airflow,Technical
+Data Engineer,PostgreSQL,Technical
+Software Developer,Java,Technical
+Software Developer,Python,Technical
+Software Developer,Git,Technical
+Software Developer,REST API,Technical
+Software Developer,SQL,Technical
+Software Developer,Data Structures,Technical
+Software Developer,Docker,Technical
+BI Developer,Power BI,Technical
+BI Developer,DAX,Technical
+BI Developer,SQL,Technical
+BI Developer,Excel,Technical
+BI Developer,Data Modeling,Technical
+BI Developer,ETL,Technical
+BI Developer,Tableau,Technical
+DevOps Engineer,Linux,Technical
+DevOps Engineer,Docker,Technical
+DevOps Engineer,Kubernetes,Technical
+DevOps Engineer,AWS,Technical
+DevOps Engineer,Terraform,Technical
+DevOps Engineer,CI/CD,Technical
+DevOps Engineer,Git,Technical
+QA Engineer,Manual Testing,Technical
+QA Engineer,Selenium,Technical
+QA Engineer,Python,Technical
+QA Engineer,API Testing,Technical
+QA Engineer,SQL,Technical
+QA Engineer,JIRA,Technical
+QA Engineer,Automation Testing,Technical
+Cybersecurity Analyst,Networking,Technical
+Cybersecurity Analyst,Linux,Technical
+Cybersecurity Analyst,SIEM,Technical
+Cybersecurity Analyst,Python,Technical
+Cybersecurity Analyst,Vulnerability Assessment,Technical
+Cybersecurity Analyst,Cloud Security,Technical
+Cybersecurity Analyst,Incident Response,Technical
