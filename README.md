@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SkillScope AI
 
 AI-powered job-market intelligence and career analytics dashboard.
